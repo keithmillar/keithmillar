@@ -4,7 +4,7 @@ title: "Back on the Bike"
 date: 2009-09-07
 category: blog 
 tags:
-- Training
+- cycling
 ---
 
 Got 36 miles in today, now knackered. Going to try running tomorrow because, guess what yes it's going to rain all day.

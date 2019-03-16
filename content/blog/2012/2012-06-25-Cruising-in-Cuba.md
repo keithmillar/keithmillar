@@ -4,7 +4,7 @@ title: "Crusing in Cuba"
 date: 2012-06-25
 categories: blog
 tags:
-- picture 
+- photography
 ---
 
 ![](/images/2012/car/bp13.jpg)

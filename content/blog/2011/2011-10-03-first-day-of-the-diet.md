@@ -4,7 +4,7 @@ layout: post
 title: "First Day of the Diet"
 categories: blog 
 tags:
-- food
+- diet
 ---
 
 13 stone 4 pounds No chocolate.

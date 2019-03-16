@@ -6,6 +6,7 @@ categories: blog
 tags:
 - food
 - travel
+- canada
 ---
 
 ![](/images/2011/img_0766.jpg)

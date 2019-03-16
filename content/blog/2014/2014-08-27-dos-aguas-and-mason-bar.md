@@ -3,9 +3,11 @@ date: 2014-08-27
 layout: post
 title: "Dos Aguas and Mason Bar"
 description: ""
-categories: blog 
+categories: blog
 tags:
-- holiday travel spain 
+- holiday
+- travel
+- spain
 ---
 
 <!--start excerpt-->

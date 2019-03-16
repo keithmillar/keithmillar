@@ -3,9 +3,11 @@ date: 2014-08-24
 layout: post
 title: "Lost in 43c Heat"
 description: ""
-categories: blog 
+categories: blog
 tags:
-- holiday travel spain 
+- holiday
+- travel
+- spain
 ---
 
 <!--start excerpt-->

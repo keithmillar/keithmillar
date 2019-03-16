@@ -4,7 +4,10 @@ layout: post
 title: "Flo Cycle and Coffee in Monserrat"
 description: ""
 categories: blog
-tags: [" holiday","travel","spain"]
+tags:
+ - holiday
+ - travel
+ - spain
 ---
 
 Out for a spin with Flo again today. Trying to find the road from Turis to Chiva was like looking for a needle in a haystack, finaly Flo found it and we had shorter reverse of Sundays run, with Coffee in Monserrat.

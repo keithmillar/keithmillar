@@ -5,7 +5,9 @@ title: "Searching for Bearings"
 description: ""
 categories: blog 
 tags:
-- holiday travel spain 
+- holiday
+- travel
+- spain 
 ---
 
 <!--start excerpt-->

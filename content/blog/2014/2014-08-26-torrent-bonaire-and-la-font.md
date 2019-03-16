@@ -3,9 +3,11 @@ date: 2014-08-26
 layout: post
 title: "Torrent, Bonaire and La Font"
 description: ""
-categories: blog 
+categories: blog
 tags:
-- holiday travel spain 
+- holiday
+- travel
+- spain
 ---
 
 <!--start excerpt-->

@@ -3,9 +3,11 @@ date: 2014-08-23
 layout: post
 title: "Our First day in Turis"
 description: ""
-categories: blog 
+categories: blog
 tags:
-- holiday travel spain 
+- holiday
+- travel
+- spain
 ---
 
 <!--start excerpt-->
@@ -21,4 +23,4 @@ I helped Mairead and Flo finish cleaning the pool , and then we went to Turis
 for a coffee and to buy food for tomorrow. Back home and I showered an relaxed
 until we go for a walk later.
 
-A nice 3 mile walk before tea to get the body moving. Ate a massive Sharon fruit I picked up off the ground, so sweet and juicy. 
+A nice 3 mile walk before tea to get the body moving. Ate a massive Sharon fruit I picked up off the ground, so sweet and juicy.

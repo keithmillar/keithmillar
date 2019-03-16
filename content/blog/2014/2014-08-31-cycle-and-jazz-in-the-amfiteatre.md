@@ -5,9 +5,9 @@ title: "Cycle and Jazz in the Amfiteatre"
 description: ""
 category: blog
 tags:
- - holiday,
- - travel,
- - spain  
+ - holiday
+ - travel
+ - spain
 ---
 
 

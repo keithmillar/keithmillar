@@ -3,9 +3,11 @@ date: 2014-08-28
 layout: post
 title: "Paddy Fields in Valencia"
 description: ""
-categories: blog 
+categories: blog
 tags:
-- holiday travel spain 
+- holiday
+- travel
+- spain
 ---
 
 <!--start excerpt-->

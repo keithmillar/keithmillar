@@ -3,9 +3,11 @@ date: 2014-08-30
 layout: post
 title: "La Vuelta Albarcete"
 description: ""
-categories: blog 
+categories: blog
 tags:
-- holiday travel spain 
+- holiday
+- travel
+- spain
 ---
 
 <!--start excerpt-->

@@ -3,9 +3,11 @@ date: 2014-08-22
 layout: post
 title: "Arriving in Turis"
 description: ""
-categories: blog 
+categories: blog
 tags:
-- holiday travel spain 
+- holiday
+- travel
+- spain
 ---
 
 <!--start excerpt-->
