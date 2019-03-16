@@ -3,15 +3,17 @@ date: 2014-08-31
 layout: post
 title: "Cycle and Jazz in the Amfiteatre"
 description: ""
-categories: blog 
+category: blog
 tags:
-- holiday travel spain 
+ - holiday,
+ - travel,
+ - spain  
 ---
 
-<!--start excerpt-->
+
 ![](/images/2014/2014-08-31-cycle-and-jazz-in-the-amfiteatre.jpg)
 
-{{ more }}
+<!--more-->
 
 ![](/images/2014/2014-08-31-cycle-and-jazz-in-the-amfiteatre2.jpg)
 
