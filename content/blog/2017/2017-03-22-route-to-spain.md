@@ -4,7 +4,8 @@ title: "Route to Spain"
 date: 2017-03-22
 category: blog
 tags:
- - change me
+ - spain
+ - travel
 ---
 
 <!--start excerpt-->

@@ -5,7 +5,8 @@ title: "And we're off"
 date: 2016-04-24
 category: blog
 tags:
- - change me
+ - spain
+ - travel
 ---
 
 <!--start excerpt-->

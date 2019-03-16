@@ -5,7 +5,7 @@ title: "Turis 1/2 Marathon"
 description: ""
 category: blog
 tags:
-- Change Me
+- spain
 ---
 
 Braved the brutal wind and watched some of the brave souls comming up the hill to Altury.
