@@ -2,9 +2,9 @@
 date: 2010-07-21 15:17:46
 layout: post
 title: "It's A hard Life"
-categories: blog 
+categories: blog
 tags:
-- general
+- lotti
 ---
 
 ![](/images/2010/lotti.jpg)

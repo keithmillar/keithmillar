@@ -4,12 +4,8 @@ layout: post
 title: "Long Cycle let down by poor Maps and Signs"
 description: ""
 categories: blog
-tags:
-- holiday
-- travel
-- spain
+tags: [" holiday","travel","spain"]
 ---
-
 
 ![](/images/2014/2014-09-01-long-cycle-let-down-by-poor-maps-and-signs.jpg)
 **I should have been here!**

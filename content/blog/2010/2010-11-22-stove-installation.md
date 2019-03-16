@@ -2,9 +2,9 @@
 date: 2010-11-22 20:07:35
 layout: post
 title: Stove Installation
-categories: blog 
+categories: blog
 tags:
-- general
+- refurb
 ---
 
 Flo in her wisdom decided that we need a multi fuel Stove here are some pics of the aftermath.

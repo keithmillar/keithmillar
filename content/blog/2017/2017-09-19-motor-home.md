@@ -4,15 +4,14 @@ title: "Motor Home"
 date: 2017-09-19
 category: blog
 tags:
- - travel
- - camper 
+ - eddy
+ - motorhome
 ---
 
-<!--start excerpt-->
 
 Called into Thompson Leisure Yesterday just to look, guess what happened when we went back today. 
 
-{{ more }}
+<!--more-->
 
 After much consideration we decided on a Elddis Autoquest 115 SIG 6469
 

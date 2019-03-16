@@ -4,7 +4,6 @@ layout: post
 title: "Omaha Beach Wexford"
 categories: blog 
 tags:
-- general
 - walking
 ---
 

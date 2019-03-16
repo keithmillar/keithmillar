@@ -6,14 +6,13 @@ description: ""
 category: blog
 tags:
 - travel
-- van
+- blu
 ---
 
-<!--start excerpt-->
+
 This turned out to be a totally manic month, having committed ourselves to Spain on the 13th of December and a stressful visit to Cork on the 17th, with the van not even half finished it was all hands on deck.
 
-{{ more }}
-
+<!--more-->
 Lots of internet searching and Flo found a guy down south selling a Waco Fridge and a cooker, naturally that was too simple, and to avoid p+p we decided to meet him in Newry on the 10th and pick them up.
 
 Finished all the insulation and fitted the N/S ply panel which was very fiddly but seems a good job. Bought a cheap hole cutter for the light fittings, this was a big mistake ended up returning it and buying a Bosh one which was 100 times better, finally got the holes for the lights cut and the panels lined lights fitted and wired up.

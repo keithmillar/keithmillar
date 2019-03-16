@@ -4,7 +4,6 @@ layout: post
 title: "Our First Strawberry Ever!"
 categories: blog 
 tags:
-- general
 - photography
 ---
 
