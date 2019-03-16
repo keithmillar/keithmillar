@@ -4,10 +4,9 @@ title: "Ballyhalbert in Eddy"
 date: 2017-10-02
 category: blog
 tags:
- - "motor home"
+ - motorhome
 ---
 
-<!--start excerpt-->
 
 Took our first official drive in Eddy down to Sandy Land.
 

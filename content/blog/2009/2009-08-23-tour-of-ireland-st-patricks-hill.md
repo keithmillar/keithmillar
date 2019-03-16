@@ -4,7 +4,8 @@ title: "Tour of Ireland (St Patricks Hill)"
 date: 2009-08-23
 category: blog
 tags:
-- Road Race
+- cycling
+- race
 ---
 
 Arrive early so we went for a coffee, then panicked when we look up the hill and saw that there was already loads of people on the climb. Struggled up the hill and got a really good spot on the left about three quarters of the way up.

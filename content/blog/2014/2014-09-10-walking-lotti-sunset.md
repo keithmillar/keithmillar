@@ -3,9 +3,9 @@ date: 2014-09-10
 layout: post
 title: "Walking Lotti Sunset"
 description: ""
-categories: blog 
+categories: blog
 tags:
-- walking
+- walk
 ---
 
 ![](/images/2014/2014-09-10-walking-lotti-sunset.jpg)

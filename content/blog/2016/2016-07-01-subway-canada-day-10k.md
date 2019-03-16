@@ -5,8 +5,8 @@ title: "Subway Canada day 10k"
 date: 2016-07-01
 category: blog
 tags:
- - race
- - canada 
+ - running
+ - canada
 ---
 
 <!--start excerpt-->

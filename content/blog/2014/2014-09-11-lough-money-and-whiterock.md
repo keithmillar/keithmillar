@@ -3,15 +3,17 @@ date: 2014-09-11
 layout: post
 title: "Lough Money and Whiterock"
 description: ""
-categories: blog 
+categories: blog
 tags:
-- holiday travel spain  
+- holiday
+- travel
+- spain
 ---
 
-<!--start excerpt-->
+
 ![](/images/2014/2014-09-11-lough-money-and-whiterock.jpg)
 
-{{ more }}
+<!--more-->
 
 Last time we came here it was very busy with fishermen all around the Lough shore, this time there where 3 fishermen, which for all intents and purposes we had the whole Lough to ourselves.
 

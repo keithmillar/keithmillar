@@ -3,15 +3,15 @@ date: 2013-02-05
 layout: post
 title: "The Fast Diet"
 description: ""
-categories: blog  
-tags: 
-- "fast diet"
+categories: blog
+tags:
+- diet
 ---
- 
-   
+
+
 On Friday 1st we started the Fast Diet (worst name ever) which involves fasting for two days a week.
 
-{{ more }} 
+<!--More-->
 
 The basics of the diet are that for two days a week you limit your calorie intake to 600 cals, split between breakfast and dinner, you can drink as much calorie
 free drink as you want. We chose Mon and Fri to start as we where travelling on these days and food was not readily available, we plan to fast on Mon and Thur from now on.

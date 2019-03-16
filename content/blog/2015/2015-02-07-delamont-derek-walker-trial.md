@@ -5,7 +5,8 @@ title: "Delamont & Derek Walker Trial"
 description: ""
 categories: blog 
 tags:
-- walk autotest
+- walk
+- autotest
 ---
 
 <!--start excerpt-->
