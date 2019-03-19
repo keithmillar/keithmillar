@@ -1,7 +1,13 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-tags: [change me]
-draft: false
+layout: post
+tags:
+- change me
 ---
 
+
+<!--more-->
+
+
+ ![](/images/2019/)
