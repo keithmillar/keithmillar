@@ -1,7 +1,6 @@
-{{ range sort .Site.Data.books ".dateread" "desc" .Params.GroupBy ".year"  }}
+{{ range sort .Site.Data.books ".dateread" "desc" }}
 <ul>
-<h4>{{ .year }}</h4>
-		<li>{{ .title }}<br />
-	By {{ .author }} <br />Finished on {{ .dateread }}</li>
+	<li>{{ .title }}<br />
+	By {{ .author }}<br />Finished on {{ .dateread }}</li>
 </ul>
 {{end}}
