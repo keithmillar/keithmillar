@@ -35,4 +35,4 @@ title = "Keith's Diary and Other Stuff"
 [params]
   dateFormat = "Jan 02, 2006"
 #  homeText = "You just made a Hugo blog from scratch."
-
+	mainSections = ["blog"]
