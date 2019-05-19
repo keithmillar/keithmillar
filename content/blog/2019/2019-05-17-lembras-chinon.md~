@@ -1,6 +1,6 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
+title: "2019 05 17 Lembras  Chinon"
+date: 2019-05-19T17:08:08+02:00
 layout: post
 category: blog
 tags:

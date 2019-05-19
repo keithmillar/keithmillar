@@ -1,10 +1,10 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
+title: "San Sebastion - Lembras"
+date: 2019-05-19T16:59:22+02:00
 layout: post
 category: blog
 tags:
-- change me
+- spain
 ---
 
 
