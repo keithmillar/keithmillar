@@ -5,6 +5,7 @@ layout: post
 category: blog
 tags:
 - france
+- travel
 ---
 
 Woke to the sound of light rain and a cold 11c, got our stuff together and hit the road as the rain got heaver.
