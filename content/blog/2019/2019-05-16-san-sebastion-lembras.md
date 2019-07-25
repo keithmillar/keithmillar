@@ -14,4 +14,4 @@ The first 40km to Bayonne took for ever as it was wall to wall traffic and road 
 
 Once Flo made the tea we walked Lotti through a forest to a Roman Bridge and back via the road and into the local bar where the band where finishing setting up, the noise they made wasn't bad a nice spot.
 
- ![](/images/2019/)
+![Lembras](/images/2019/2019-05-16-san-sebastion-lembras.jpg) **Lembras**
