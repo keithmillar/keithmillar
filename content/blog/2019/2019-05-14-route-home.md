@@ -12,6 +12,7 @@ tags:
 
 **Montroy to Donostia /San Sebastian**  
 365 miles  
+<!--more-->
 
 A7 to Port de Sagunt  
 A23/N234 to Teruel  
@@ -26,7 +27,6 @@ AP15 A15 around Pamplona
 N240A AP15 A15 Donostia / San Sebastian
 
 **Parking Donostia Arena N 43.29742 W 1.96958**
-<!--more-->
 # Day Two
 
 **Donostia /San Sebastian  to Bergerac**  
