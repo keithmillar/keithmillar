@@ -107,5 +107,3 @@ layout: single
  * 9-speed cassette 12-23 2 Used Road
  * 11-speed cassette 11-32 1 Shamino New Road
  * Chain Ring 34 1 Shamino New Road
- * 11-speed chain 1 Shamino New Road
- * Disk Brake Pads 1 Shamino New Road
