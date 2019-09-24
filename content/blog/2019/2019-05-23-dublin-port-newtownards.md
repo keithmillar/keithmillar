@@ -13,5 +13,3 @@ The new boat was very impressive and fast 17 hours into Dublin Port. 3 EUR for t
 Back home van empted grass cut windows pc updated.
 
 Two ISS tonight first very bright the second not so much.
-
- ![](/images/2019/)

@@ -10,5 +10,3 @@ tags:
 
 Handy drive up to Cherbourg stopping off at an Aunchan for supplies then on to the port. 
 <!--more-->
-
- ![](/images/2019/)
