@@ -2,5 +2,5 @@
 title: "Books by Date"
 type: "collection"
 layout: "books"
-date: "2019-10-21"
+date: "2019-10-28"
 ---
