@@ -1,9 +1,9 @@
 +++
-category = ""
+category = "blog"
 date = 2019-11-17T14:39:00Z
 layout = "post:"
 tags = []
-title = "\"Motor GP\""
+title = "\"Moto GP\""
 
 +++
 2019-11-15 Motogp Practice. We all got up bright and early to get to the track in good time. Watched both Motogp sessions ebikes and Motogp, bright sunny day but bitterly cold wind. Also some retail therapy.
