@@ -1,0 +1,18 @@
++++
+category = ""
+date = 2019-11-17T14:39:00Z
+draft = true
+layout = "post:"
+tags = []
+title = "\"Motor GP\""
+
++++
+2019-11-15 Motogp Practice. We all got up bright and early to get to the track in good time. Watched both Motogp sessions ebikes and Motogp, bright sunny day but bitterly cold wind. Also some retail therapy.
+
+2019-11-17 Motogp. Freezing cold 6c at 6am as we walked Lotti before we left for the circuit. Only took 30 minutes door to door and no que at the gates.
+
+Moto3 warm-up came first at 08.50 quickly followed by the other 2 class,no major incidents except Marquez falling.
+
+The icy conditions continued with the wind showing its hand every now and again. Moto3 was the most incident packed with several major crashes, the Moto2 race was fairly normal with some toing and froing at the front. MotoGP never really looked anything but a Marc Marquez demo with him closing down Quatro and finally passing for an easy win. Rossi managed not to crash , while Crutchlo fell in front of us after passing Rossi.
+
+MotoE was surprisingly good with some exciting racing, the bikes are faster than I thought . All in all a very good day with no stress even leaving the circuit was hassle free
