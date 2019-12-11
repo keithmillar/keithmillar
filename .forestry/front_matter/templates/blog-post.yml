@@ -2,3 +2,5 @@
 label: Blog post
 hide_body: true
 fields: []
+pages:
+- content/blog/2019/2019-11-17-motogp.md
