@@ -1,7 +1,6 @@
 +++
 category = ""
 date = 2019-11-17T14:39:00Z
-draft = true
 layout = "post:"
 tags = []
 title = "\"Motor GP\""
