@@ -4,9 +4,7 @@ title = "Keith's Diary and Other Stuff"
 
 [permalinks]
   blog = "/:filename/"
-
-#[imaging]
-#  Resize = "600x r90"
+  relativeURLs = "true"
 
 # See https://feathericons.com/
 # The value of pre is the icon name
