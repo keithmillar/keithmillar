@@ -1,0 +1,37 @@
+<style>
+td {
+  color: blue;
+  text-align: center;
+}
+</style>
+<strong>2020</strong>
+<table>
+  <thead>
+  <tr>
+    <th>Date</th>
+    <th>Clouds</th>
+    <th>Temp &#8451; </th>
+    <th>Humidity %</th>
+    <th>Wind mph</th>
+    <th>Wind Direction</th>
+    <th>Sunrise</th>
+    <th>Sunset</th>
+  </tr>
+  </thead>
+  <tbody>
+{{ $url := "weather/weather.csv" }}
+{{ $sep := "," }}
+{{ range $i, $r := getCSV $sep $url  }}
+    <tr>
+      <td>{{ index $r 0 }}</td>
+      <td>{{ index $r 3 }}</td>
+  <td>{{ index $r 4 }}</td>
+  <td>{{ index $r 5 }}</td>
+<td>{{ index $r 6 }}</td>
+<td>{{ index $r 7 }}</td>
+<td>{{ index $r 8 }}</td>
+<td>{{ index $r 9 }}</td>
+    </tr></td>
+{{ end }}
+  </tbody>
+</table>

@@ -1,8 +1,7 @@
 ---
 title: "Bicycle Parts"
-date: 2019-02-15
-type: collection
-layout: single
+type: "collection"
+date: "2019-02-15"
 ---
 
 *Description *Quantity *Brand *Condition *MTB / Road / Cyclocross
