@@ -1,3 +1,4 @@
+Date, Town, Country, Cloud, Temp, Humidity, Wind Strength, Wind Direction, Sunrise, Sunset
 2020-04-25, Montroy, ES, few clouds, 17.6, 77, 5.8, SE, 07:10, 20:49
 2020-04-25, Montroy, ES, few clouds, 17.2, 88, 4.7, SE, 07:10, 20:49
 2020-04-26, Montroy, ES, scattered clouds, 12.8, 93, 4.7, NW, 07:09, 20:50
@@ -37,3 +38,11 @@
 2020-05-06, Montroy, ES, overcast clouds, 25.8, 53, 6.9, ENE, 06:57, 21:00
 2020-05-07, Montroy, ES, overcast clouds, 16.8, 93, 1.1, N, 06:56, 21:01
 2020-05-07, Montroy, ES, few clouds, 24.9, 60, 10.3, E, 06:56, 21:01
+2020-05-07, Montroy, ES, overcast clouds, 25.2, 47, 12.8, E, 06:56, 21:01
+2020-05-08, Montroy, ES, broken clouds, 16.3, 88, 3.4, NW, 06:55, 21:02
+2020-05-08, Montroy, ES, few clouds, 22, 60, 12.8, E, 06:55, 21:02
+2020-05-08, Montroy, ES, scattered clouds, 23.5, 69, 9.2, E, 06:55, 21:02
+2020-05-09, Montroy, ES, few clouds, 16.4, 93, 4.7, WSW, 06:54, 21:03
+2020-05-09, Montroy, ES, broken clouds, 23.6, 69, 8.1, E, 06:54, 21:03
+2020-05-09, Montroy, ES, few clouds, 21.1, 68, 9.2, E, 06:54, 21:03
+2020-05-10, Montroy, ES, few clouds, 16.7, 100, 2.2, S, 06:53, 21:04
