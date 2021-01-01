@@ -4,7 +4,7 @@ td {
   text-align: center;
 }
 </style>
-<strong>2021</strong>
+<strong>2020</strong>
 <table>
   <thead>
   <tr>
@@ -19,7 +19,7 @@ td {
   </tr>
   </thead>
   <tbody>
-{{ $url := "weather/weather.csv" }}
+{{ $url := "weather/2020-weather.csv" }}
 {{ $sep := "," }}
 {{ range $i, $r := getCSV $sep $url  }}
     <tr>
