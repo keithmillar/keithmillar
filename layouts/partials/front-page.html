@@ -3,7 +3,7 @@
       <!-- this <div> includes the title summary -->
       <div>
         <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-		<span>{{ .Date.Format "02 Jan, 2006" }}</span>
+	<i data-feather="calendar"></i> <span>{{ .Date.Format "02 Jan, 2006" }}</span>
         {{ .Summary }}
       </div>
       {{ if .Truncated }}

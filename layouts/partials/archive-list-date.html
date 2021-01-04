@@ -1,6 +1,6 @@
 {{ with .Site.GetPage "section" "blog" }}
     {{ range .Data.Pages.GroupByDate "Jan 2006" }}
-	<h2>{{ .Key }}</h2>
+	<h2><i data-feather="calendar"></i> {{ .Key }}</h2>
 	<ul>
 	{{ range .Pages }}
 	<li>
