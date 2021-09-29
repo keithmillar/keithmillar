@@ -1,6 +1,7 @@
 baseURL = "https://keithmillar.github.io"
 languageCode = "en-us"
 title = "Keith's Diary and Other Stuff"
+enableRobotsTXT = "false"
 
 [permalinks]
   blog = "/:filename/"
