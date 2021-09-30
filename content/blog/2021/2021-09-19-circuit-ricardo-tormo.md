@@ -9,7 +9,7 @@ tags:
 ---
 
 
+ ![Motor Racing](/images/2021/2021-09-19-circuit-ricardo-tormo.jpg)**Motor Racing**
 <!--more-->
 
 
- ![Motor Racing](/images/2021/2021-09-19-circuit-ricardo-tormo.jpg)**Motor Racing**
