@@ -2,5 +2,5 @@
 title: "Weather"
 type: "collection"
 layout: "weather"
-date: "2021-09-30"
+date: "2021-10-31"
 ---
