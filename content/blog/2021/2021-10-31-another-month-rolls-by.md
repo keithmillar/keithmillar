@@ -16,7 +16,3 @@ Next project is to fit a Pellet Stove which we bought from Leroy Merlin, easy to
 Bought a Tilt 900 from Decathlon same as Flo's.
 
 Borrowed a Rotavator from C&A went over it a couple of times, going to leave it a couple of days and I will do it again, so now the garden is ready for planting.
-<!--more-->
-
-
- ![](/images/2021/)
