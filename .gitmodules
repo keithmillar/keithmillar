@@ -2,4 +2,4 @@
 	path = public
 	url = git@github.com-keith:/keithmillar/keithmillar.github.io.git
     #url = https://github.com/keithmillar/keithmillar.github.io.git
-	branch = master
+	branch = main
