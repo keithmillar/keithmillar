@@ -1,6 +1,6 @@
 ---
 title: "Trial Sant Joan De Les Abadesse"
-date: 2022-05-20T15:16:02+02:00
+date: 2022-04-15
 layout: post
 category: blog
 tags:
