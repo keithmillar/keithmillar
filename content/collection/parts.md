@@ -106,3 +106,29 @@ date: "2019-02-15"
  * 9-speed cassette 12-23 2 Used Road
  * 11-speed cassette 11-32 1 Shamino New Road
  * Chain Ring 34 1 Shamino New Road
+
+**Spain**
+
+ * FCR 8000 x 34 teeth CHAIN RING
+ * FCR 8000 x 36 teeth CHAIN RING
+ * 2 X PCD130 x 52 teeth CHAIN RINGS (off Tilts)
+ * TREK LOWER HEADSET 51mm
+ * “FABRIC” SADDLE
+ * TREK CABLE GUIDE DERAILLEUR
+ * “SELLE ITALIA” SLR SADDLE
+ * SET OF B’TWIN KEO CLEATS
+ * SRAM 11 speed CHAIN – PC1110
+ * SET OF SPD PEDALS – Double Sided
+ * SET OF SPD CLEATS x 2
+ * 2 x pairs of MTB Brake Pads – SPECIALIZED
+ * 2 x pairs of MTD Brake Pads – TERRAGO
+ * 2 x KNOG Bells
+ * Set of B’TWIN DERAILLEUR CABLES
+ * ULTEGRA CHAIN RINGS 11speed – 50 teeth & 39 teeth
+
+**TUBES**
+ * 650 presta    18 x 25
+ * 2 x 20” Schrader – 1.5 – 1.9
+ * 26” Schrader – 1.7 – 2.2
+ * 2 x 29er 
+ * 2 x 700 Presta x 25 x 32
