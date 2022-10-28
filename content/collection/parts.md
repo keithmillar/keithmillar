@@ -116,7 +116,6 @@ date: "2019-02-15"
  * “FABRIC” SADDLE
  * TREK CABLE GUIDE DERAILLEUR
  * “SELLE ITALIA” SLR SADDLE
- * SET OF B’TWIN KEO CLEATS
  * SRAM 11 speed CHAIN – PC1110
  * SET OF SPD PEDALS – Double Sided
  * SET OF SPD CLEATS x 2
@@ -125,6 +124,7 @@ date: "2019-02-15"
  * 2 x KNOG Bells
  * Set of B’TWIN DERAILLEUR CABLES
  * ULTEGRA CHAIN RINGS 11speed – 50 teeth & 39 teeth
+ * Deda Element Stem 11cm
 
 **TUBES**
  * 650 presta    18 x 25
