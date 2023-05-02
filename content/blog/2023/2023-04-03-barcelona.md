@@ -11,7 +11,7 @@ tags:
 After a few wrong turns none of which where Flo's fault we acquired return tickets on the train to Barcelona. We where to join Ken and Andrew to be shown the highlights of the city.
 
 
- ![Tibidabo](/images/2023/2023-04-03-barcelona.jpg)**Tibidabo**
+ ![Sagrat Cor Church, Tibidabo](/images/2023/2023-04-03-barcelona.jpg)**Sagrat Cor Church, Tibidabo**
 <!--more-->
 
 Enjoyed the city immensity lots of walking around the Olympic Park and Tibidabo great views and reform using the Funicular.
