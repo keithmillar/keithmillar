@@ -9,7 +9,6 @@ tags:
 ---
 
 
+![Curbstones Installed](/images/2024/2024-04-18-patio-area-finished.jpg)**Curbstones Installed**
 <!--more-->
 
-
- ![](/images/2024/2024-04-18-patio-area-finished.jpg)
