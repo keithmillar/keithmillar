@@ -1,0 +1,151 @@
+@font-face {
+    font-family: 'claire_handregular';
+    src: url('/fonts/claire_hand/clairehandregular-webfont.eot');
+    src: url('/fonts/claire_hand/clairehandregular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/claire_hand/clairehandregular-webfont.woff2') format('woff2'),
+         url('/fonts/claire_hand/clairehandregular-webfont.woff') format('woff'),
+         url('/fonts/claire_hand/clairehandregular-webfont.ttf') format('truetype'),
+         url('fonts/claire_hand/clairehandregular-webfont.svg#claire_handregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'claire_handbold';
+    src: url('/fonts/claire_hand/clairehandbold-webfont.eot');
+    src: url('/fonts/claire_hand/clairehandbold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/claire_hand/clairehandbold-webfont.woff2') format('woff2'),
+         url('/fonts/claire_hand/clairehandbold-webfont.woff') format('woff'),
+         url('/fonts/claire_hand/clairehandbold-webfont.ttf') format('truetype'),
+         url('/fonts/claire_hand/clairehandbold-webfont.svg#claire_handbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'linux_biolinum';
+    src: url('/fonts/linuxbiolinum/linbiolinum.woff2') format('woff2'),
+         url('/fonts/linuxbiolinum/linbiolinum.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+				font-family: "Atkinson Hyperlegible";
+				src: url(/fonts/htkinson-hyperlegible/Atkinson-Hyperlegible-Regular-102a.woff2) format("woff2");
+				font-weight: 400;
+				font-display: swap;
+			}
+
+
+body {
+  max-width: 800px;
+  margin: auto;
+  padding: 1em;
+  line-height: 1.5em;
+  font-family: 'Atkinson-Hyperlegible-Regular-102a.woff2';
+  /* font-family: 'linux_biolinum'; */
+      font-size: 110%;
+}
+
+header {
+font-family: 'claire_handregular';
+}
+.menu {
+/*font-family: 'claire_handregular';*/
+font-family: 'Atkinson-Hyperlegible-Regular-102a.woff2';
+      font-size: 110%;
+}
+
+footer {
+/*font-family: 'claire_handregular';*/
+font-family: 'Atkinson-Hyperlegible-Regular-102a.woff2';
+}
+
+h1, h2, h3, h4, h5, h6 {
+  /* font-family: 'claire_handregular'; */
+/*font-family: 'linux_biolinum';*/
+font-family: 'Atkinson-Hyperlegible-Bold-102a.woff2';
+  }
+
+  /* header and footer areas */
+.menu { padding: 0; }
+.menu li { display: inline-block; }
+.article-meta, .menu a {
+  text-decoration: none;
+  background: #ffffff;
+  /*background: #eee;*/
+  padding: 5px;
+  border-radius: 5px;
+}
+.menu, .article-meta, footer { text-align: center; }
+.title { font-size: 1.1em; }
+footer a { text-decoration: none; }
+hr {
+  border-style: dashed;
+  color: #ddd;
+}
+
+/* code */
+pre {
+  border: 1px solid #ddd;
+  box-shadow: 5px 5px 5px #eee;
+  padding: 1em;
+  overflow-x: auto;
+}
+code { background: #f9f9f9; }
+pre code { background: none; }
+
+/* misc elements */
+img, iframe, video { max-width: 100%; }
+main { hyphens: auto; }
+blockquote {
+  background: #f9f9f9;
+  border-left: 5px solid #ccc;
+  padding: 3px 1em 3px;
+}
+
+table {
+  margin: auto;
+  border-top: 1px solid #666;
+  border-bottom: 1px solid #666;
+}
+table thead th { border-bottom: 1px solid #ddd; }
+th, td { padding: 5px; }
+thead, tfoot, tr:nth-child(even) { background: #eee; }
+
+/* links */
+a, a:visited {
+	color: green;text-decoration: none;
+	}
+
+a:hover	{
+	color: hotpink;
+	}
+
+/*<style>*/
+
+/* Image Display */
+
+img + em { display: block; text-align: center;}
+img + strong { display: block; text-align: center;}
+
+img { max-width:98%; /* max-width:128%; */
+	padding: 1%;
+	height: auto;
+	border: thin black solid;
+	text-align: center;
+	background:lightgrey;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/* styling for feather icons 
+
+.feather {
+	width: 16px;
+	height: 16px:
+} */
+
+  /* </style> */
