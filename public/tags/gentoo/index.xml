@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gentoo on Keith&#39;s Diary and Other Stuff</title>
-    <link>/tags/gentoo/</link>
+    <link>http://192.168.0.14:1313/tags/gentoo/</link>
     <description>Recent content in Gentoo on Keith&#39;s Diary and Other Stuff</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 26 Jan 2012 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/gentoo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://192.168.0.14:1313/tags/gentoo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gentoo Emerge Hell</title>
-      <link>/2012-01-26-gentoo-emerge-hell/</link>
+      <link>http://192.168.0.14:1313/2012-01-26-gentoo-emerge-hell/</link>
       <pubDate>Thu, 26 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>/2012-01-26-gentoo-emerge-hell/</guid>
+      <guid>http://192.168.0.14:1313/2012-01-26-gentoo-emerge-hell/</guid>
       <description>As normal with Gentoo when things start to go wrong they just keep getting worse. First kdepy4 gave trouble had to downgrade sip, that sort of fixed that. Then kdepim4 wouldn&amp;rsquo;t compile, ended up leaving it, hopefully it will be fixed in the next few days. Must spend some time tidying up portage keywords etc.</description>
     </item>
   </channel>
