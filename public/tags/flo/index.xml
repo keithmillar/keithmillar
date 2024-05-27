@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Flo on Keith&#39;s Diary and Other Stuff</title>
-    <link>http://192.168.0.14:1313/tags/flo/</link>
+    <link>/tags/flo/</link>
     <description>Recent content in Flo on Keith&#39;s Diary and Other Stuff</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 21 Nov 2023 17:03:50 +0100</lastBuildDate>
-    <atom:link href="http://192.168.0.14:1313/tags/flo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/flo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Flo Breaks Wrist</title>
-      <link>http://192.168.0.14:1313/2023-11-14-flo-breaks-wrist/</link>
+      <link>/2023-11-14-flo-breaks-wrist/</link>
       <pubDate>Tue, 21 Nov 2023 17:03:50 +0100</pubDate>
-      <guid>http://192.168.0.14:1313/2023-11-14-flo-breaks-wrist/</guid>
+      <guid>/2023-11-14-flo-breaks-wrist/</guid>
       <description>&lt;p&gt;Sensitive Content&lt;/p&gt;</description>
     </item>
     <item>
       <title>Flo&#39;s 60th Birthday</title>
-      <link>http://192.168.0.14:1313/2020-10-05-flo-60-birthday/</link>
+      <link>/2020-10-05-flo-60-birthday/</link>
       <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/2020-10-05-flo-60-birthday/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://192.168.0.14:1313/images/2020/2020-10-05-flo-60-birthday.jpg&#34; alt=&#34;Flo&amp;rsquo;s 60th Wexford&#34;&gt;&lt;strong&gt;Flo&amp;rsquo;s 60th Wexford&lt;/strong&gt;&lt;/p&gt;</description>
+      <guid>/2020-10-05-flo-60-birthday/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/images/2020/2020-10-05-flo-60-birthday.jpg&#34; alt=&#34;Flo&amp;rsquo;s 60th Wexford&#34;&gt;&lt;strong&gt;Flo&amp;rsquo;s 60th Wexford&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

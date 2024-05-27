@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stoves on Keith&#39;s Diary and Other Stuff</title>
-    <link>http://192.168.0.14:1313/tags/stoves/</link>
+    <link>/tags/stoves/</link>
     <description>Recent content in Stoves on Keith&#39;s Diary and Other Stuff</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 31 Oct 2021 19:56:12 +0100</lastBuildDate>
-    <atom:link href="http://192.168.0.14:1313/tags/stoves/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/stoves/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Another Month Rolls By</title>
-      <link>http://192.168.0.14:1313/2021-10-31-another-month-rolls-by/</link>
+      <link>/2021-10-31-another-month-rolls-by/</link>
       <pubDate>Sun, 31 Oct 2021 19:56:12 +0100</pubDate>
-      <guid>http://192.168.0.14:1313/2021-10-31-another-month-rolls-by/</guid>
+      <guid>/2021-10-31-another-month-rolls-by/</guid>
       <description>&lt;p&gt;After much procrastinating we made a start to the fire, Built up the back and sides with some small bricks then we tiled the hearth with black tiles. We ran out of time to do the surround, that will have to wait for another day.&lt;/p&gt;</description>
     </item>
   </channel>

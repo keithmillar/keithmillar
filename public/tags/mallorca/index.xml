@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mallorca on Keith&#39;s Diary and Other Stuff</title>
-    <link>http://192.168.0.14:1313/tags/mallorca/</link>
+    <link>/tags/mallorca/</link>
     <description>Recent content in Mallorca on Keith&#39;s Diary and Other Stuff</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 29 Sep 2022 17:14:10 +0200</lastBuildDate>
-    <atom:link href="http://192.168.0.14:1313/tags/mallorca/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/mallorca/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mallorca</title>
-      <link>http://192.168.0.14:1313/2022-09-29-mallorca/</link>
+      <link>/2022-09-29-mallorca/</link>
       <pubDate>Thu, 29 Sep 2022 17:14:10 +0200</pubDate>
-      <guid>http://192.168.0.14:1313/2022-09-29-mallorca/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://192.168.0.14:1313/images/2022/2022-09-29-mallorca-1.jpg&#34; alt=&#34;Huib, Me and Bren&#34;&gt;&lt;strong&gt;Huib, Me and Bren&lt;/strong&gt;&lt;/p&gt;</description>
+      <guid>/2022-09-29-mallorca/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/images/2022/2022-09-29-mallorca-1.jpg&#34; alt=&#34;Huib, Me and Bren&#34;&gt;&lt;strong&gt;Huib, Me and Bren&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

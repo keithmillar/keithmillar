@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Iceland on Keith&#39;s Diary and Other Stuff</title>
-    <link>http://192.168.0.14:1313/tags/iceland/</link>
+    <link>/tags/iceland/</link>
     <description>Recent content in Iceland on Keith&#39;s Diary and Other Stuff</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 13 Aug 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://192.168.0.14:1313/tags/iceland/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/iceland/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Iceland</title>
-      <link>http://192.168.0.14:1313/2018-08-13-iceland/</link>
+      <link>/2018-08-13-iceland/</link>
       <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/2018-08-13-iceland/</guid>
+      <guid>/2018-08-13-iceland/</guid>
       <description>After a fairly quick flight from Dublin we landed in Iceland to a maniac Kelflavick Airport.&#xA;Blue Lagoon&#xA;{{ more }}&#xA;Spent an afternoon in the Blue Lagoon pleasant but very expensive as is all of Iceland.&#xA;Reykjavik&#xA;Enjoyed our time here didn&amp;rsquo;t really see rural areas not sure it would be worth returning.&#xA;Blue Lagoon</description>
     </item>
   </channel>

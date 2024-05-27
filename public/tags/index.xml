@@ -2,710 +2,710 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Keith&#39;s Diary and Other Stuff</title>
-    <link>http://192.168.0.14:1313/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Keith&#39;s Diary and Other Stuff</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Apr 2024 13:55:26 +0200</lastBuildDate>
-    <atom:link href="http://192.168.0.14:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Cycling</title>
-      <link>http://192.168.0.14:1313/tags/cycling/</link>
+      <title>Spain</title>
+      <link>/tags/spain/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/cycling/</guid>
+      <guid>/tags/spain/</guid>
       <description></description>
     </item>
     <item>
-      <title>Spain</title>
-      <link>http://192.168.0.14:1313/tags/spain/</link>
+      <title>Cycling</title>
+      <link>/tags/cycling/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/spain/</guid>
+      <guid>/tags/cycling/</guid>
       <description></description>
     </item>
     <item>
       <title>Home</title>
-      <link>http://192.168.0.14:1313/tags/home/</link>
+      <link>/tags/home/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/home/</guid>
+      <guid>/tags/home/</guid>
       <description></description>
     </item>
     <item>
       <title>Fire</title>
-      <link>http://192.168.0.14:1313/tags/fire/</link>
+      <link>/tags/fire/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/fire/</guid>
+      <guid>/tags/fire/</guid>
       <description></description>
     </item>
     <item>
       <title>Real</title>
-      <link>http://192.168.0.14:1313/tags/real/</link>
+      <link>/tags/real/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/real/</guid>
+      <guid>/tags/real/</guid>
       <description></description>
     </item>
     <item>
       <title>Pet</title>
-      <link>http://192.168.0.14:1313/tags/pet/</link>
+      <link>/tags/pet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/pet/</guid>
+      <guid>/tags/pet/</guid>
       <description></description>
     </item>
     <item>
       <title>Woody</title>
-      <link>http://192.168.0.14:1313/tags/woody/</link>
+      <link>/tags/woody/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/woody/</guid>
+      <guid>/tags/woody/</guid>
       <description></description>
     </item>
     <item>
       <title>Solar</title>
-      <link>http://192.168.0.14:1313/tags/solar/</link>
+      <link>/tags/solar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/solar/</guid>
+      <guid>/tags/solar/</guid>
       <description></description>
     </item>
     <item>
       <title>Marathon</title>
-      <link>http://192.168.0.14:1313/tags/marathon/</link>
+      <link>/tags/marathon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/marathon/</guid>
+      <guid>/tags/marathon/</guid>
       <description></description>
     </item>
     <item>
       <title>Valencia</title>
-      <link>http://192.168.0.14:1313/tags/valencia/</link>
+      <link>/tags/valencia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/valencia/</guid>
+      <guid>/tags/valencia/</guid>
       <description></description>
     </item>
     <item>
       <title>Flo</title>
-      <link>http://192.168.0.14:1313/tags/flo/</link>
+      <link>/tags/flo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/flo/</guid>
+      <guid>/tags/flo/</guid>
       <description></description>
     </item>
     <item>
       <title>Snikket</title>
-      <link>http://192.168.0.14:1313/tags/snikket/</link>
+      <link>/tags/snikket/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/snikket/</guid>
+      <guid>/tags/snikket/</guid>
       <description></description>
     </item>
     <item>
       <title>Music</title>
-      <link>http://192.168.0.14:1313/tags/music/</link>
+      <link>/tags/music/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/music/</guid>
+      <guid>/tags/music/</guid>
       <description></description>
     </item>
     <item>
       <title>Spaih</title>
-      <link>http://192.168.0.14:1313/tags/spaih/</link>
+      <link>/tags/spaih/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/spaih/</guid>
+      <guid>/tags/spaih/</guid>
       <description></description>
     </item>
     <item>
       <title>New Ross</title>
-      <link>http://192.168.0.14:1313/tags/new-ross/</link>
+      <link>/tags/new-ross/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/new-ross/</guid>
+      <guid>/tags/new-ross/</guid>
       <description></description>
     </item>
     <item>
       <title>Elche</title>
-      <link>http://192.168.0.14:1313/tags/elche/</link>
+      <link>/tags/elche/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/elche/</guid>
+      <guid>/tags/elche/</guid>
       <description></description>
     </item>
     <item>
       <title>Running</title>
-      <link>http://192.168.0.14:1313/tags/running/</link>
+      <link>/tags/running/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/running/</guid>
+      <guid>/tags/running/</guid>
       <description></description>
     </item>
     <item>
       <title>Albufera</title>
-      <link>http://192.168.0.14:1313/tags/albufera/</link>
+      <link>/tags/albufera/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/albufera/</guid>
+      <guid>/tags/albufera/</guid>
       <description></description>
     </item>
     <item>
       <title>Madrid</title>
-      <link>http://192.168.0.14:1313/tags/madrid/</link>
+      <link>/tags/madrid/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/madrid/</guid>
+      <guid>/tags/madrid/</guid>
       <description></description>
     </item>
     <item>
       <title>Repair</title>
-      <link>http://192.168.0.14:1313/tags/repair/</link>
+      <link>/tags/repair/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/repair/</guid>
+      <guid>/tags/repair/</guid>
       <description></description>
     </item>
     <item>
       <title>Cyclo-Cross</title>
-      <link>http://192.168.0.14:1313/tags/cyclo-cross/</link>
+      <link>/tags/cyclo-cross/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/cyclo-cross/</guid>
+      <guid>/tags/cyclo-cross/</guid>
       <description></description>
     </item>
     <item>
       <title>Christmas</title>
-      <link>http://192.168.0.14:1313/tags/christmas/</link>
+      <link>/tags/christmas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/christmas/</guid>
+      <guid>/tags/christmas/</guid>
       <description></description>
     </item>
     <item>
       <title>Visit</title>
-      <link>http://192.168.0.14:1313/tags/visit/</link>
+      <link>/tags/visit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/visit/</guid>
+      <guid>/tags/visit/</guid>
       <description></description>
     </item>
     <item>
       <title>Mallorca</title>
-      <link>http://192.168.0.14:1313/tags/mallorca/</link>
+      <link>/tags/mallorca/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/mallorca/</guid>
+      <guid>/tags/mallorca/</guid>
       <description></description>
     </item>
     <item>
       <title>Portugal</title>
-      <link>http://192.168.0.14:1313/tags/portugal/</link>
+      <link>/tags/portugal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/portugal/</guid>
+      <guid>/tags/portugal/</guid>
       <description></description>
     </item>
     <item>
       <title>Ards</title>
-      <link>http://192.168.0.14:1313/tags/ards/</link>
+      <link>/tags/ards/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/ards/</guid>
+      <guid>/tags/ards/</guid>
       <description></description>
     </item>
     <item>
       <title>Motorsport</title>
-      <link>http://192.168.0.14:1313/tags/motorsport/</link>
+      <link>/tags/motorsport/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/motorsport/</guid>
+      <guid>/tags/motorsport/</guid>
       <description></description>
     </item>
     <item>
       <title>Nascar</title>
-      <link>http://192.168.0.14:1313/tags/nascar/</link>
+      <link>/tags/nascar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/nascar/</guid>
+      <guid>/tags/nascar/</guid>
       <description></description>
     </item>
     <item>
       <title>Trials</title>
-      <link>http://192.168.0.14:1313/tags/trials/</link>
+      <link>/tags/trials/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/trials/</guid>
+      <guid>/tags/trials/</guid>
       <description></description>
     </item>
     <item>
       <title>Movie</title>
-      <link>http://192.168.0.14:1313/tags/movie/</link>
+      <link>/tags/movie/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/movie/</guid>
+      <guid>/tags/movie/</guid>
       <description></description>
     </item>
     <item>
       <title>Rain</title>
-      <link>http://192.168.0.14:1313/tags/rain/</link>
+      <link>/tags/rain/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/rain/</guid>
+      <guid>/tags/rain/</guid>
       <description></description>
     </item>
     <item>
       <title>School</title>
-      <link>http://192.168.0.14:1313/tags/school/</link>
+      <link>/tags/school/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/school/</guid>
+      <guid>/tags/school/</guid>
       <description></description>
     </item>
     <item>
       <title>Change Me</title>
-      <link>http://192.168.0.14:1313/tags/change-me/</link>
+      <link>/tags/change-me/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/change-me/</guid>
+      <guid>/tags/change-me/</guid>
       <description></description>
     </item>
     <item>
       <title>Honey</title>
-      <link>http://192.168.0.14:1313/tags/honey/</link>
+      <link>/tags/honey/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/honey/</guid>
+      <guid>/tags/honey/</guid>
       <description></description>
     </item>
     <item>
       <title>Garden</title>
-      <link>http://192.168.0.14:1313/tags/garden/</link>
+      <link>/tags/garden/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/garden/</guid>
+      <guid>/tags/garden/</guid>
       <description></description>
     </item>
     <item>
       <title>Life</title>
-      <link>http://192.168.0.14:1313/tags/life/</link>
+      <link>/tags/life/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/life/</guid>
+      <guid>/tags/life/</guid>
       <description></description>
     </item>
     <item>
       <title>Stoves</title>
-      <link>http://192.168.0.14:1313/tags/stoves/</link>
+      <link>/tags/stoves/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/stoves/</guid>
+      <guid>/tags/stoves/</guid>
       <description></description>
     </item>
     <item>
       <title>Beach</title>
-      <link>http://192.168.0.14:1313/tags/beach/</link>
+      <link>/tags/beach/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/beach/</guid>
+      <guid>/tags/beach/</guid>
       <description></description>
     </item>
     <item>
       <title>Flowers</title>
-      <link>http://192.168.0.14:1313/tags/flowers/</link>
+      <link>/tags/flowers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/flowers/</guid>
+      <guid>/tags/flowers/</guid>
       <description></description>
     </item>
     <item>
       <title>Down</title>
-      <link>http://192.168.0.14:1313/tags/down/</link>
+      <link>/tags/down/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/down/</guid>
+      <guid>/tags/down/</guid>
       <description></description>
     </item>
     <item>
       <title>Lotti</title>
-      <link>http://192.168.0.14:1313/tags/lotti/</link>
+      <link>/tags/lotti/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/lotti/</guid>
+      <guid>/tags/lotti/</guid>
       <description></description>
     </item>
     <item>
       <title>Natterjack</title>
-      <link>http://192.168.0.14:1313/tags/natterjack/</link>
+      <link>/tags/natterjack/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/natterjack/</guid>
+      <guid>/tags/natterjack/</guid>
       <description></description>
     </item>
     <item>
       <title>Dusty</title>
-      <link>http://192.168.0.14:1313/tags/dusty/</link>
+      <link>/tags/dusty/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/dusty/</guid>
+      <guid>/tags/dusty/</guid>
       <description></description>
     </item>
     <item>
       <title>Covid-19</title>
-      <link>http://192.168.0.14:1313/tags/covid-19/</link>
+      <link>/tags/covid-19/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/covid-19/</guid>
+      <guid>/tags/covid-19/</guid>
       <description></description>
     </item>
     <item>
       <title>Rosslair</title>
-      <link>http://192.168.0.14:1313/tags/rosslair/</link>
+      <link>/tags/rosslair/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/rosslair/</guid>
+      <guid>/tags/rosslair/</guid>
       <description></description>
     </item>
     <item>
       <title>Travel</title>
-      <link>http://192.168.0.14:1313/tags/travel/</link>
+      <link>/tags/travel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/travel/</guid>
+      <guid>/tags/travel/</guid>
       <description></description>
     </item>
     <item>
       <title>Casita</title>
-      <link>http://192.168.0.14:1313/tags/casita/</link>
+      <link>/tags/casita/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/casita/</guid>
+      <guid>/tags/casita/</guid>
       <description></description>
     </item>
     <item>
       <title>Coronavirus</title>
-      <link>http://192.168.0.14:1313/tags/coronavirus/</link>
+      <link>/tags/coronavirus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/coronavirus/</guid>
+      <guid>/tags/coronavirus/</guid>
       <description></description>
     </item>
     <item>
       <title>Festival</title>
-      <link>http://192.168.0.14:1313/tags/festival/</link>
+      <link>/tags/festival/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/festival/</guid>
+      <guid>/tags/festival/</guid>
       <description></description>
     </item>
     <item>
       <title>Family</title>
-      <link>http://192.168.0.14:1313/tags/family/</link>
+      <link>/tags/family/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/family/</guid>
+      <guid>/tags/family/</guid>
       <description></description>
     </item>
     <item>
       <title>Montroy</title>
-      <link>http://192.168.0.14:1313/tags/montroy/</link>
+      <link>/tags/montroy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/montroy/</guid>
+      <guid>/tags/montroy/</guid>
       <description></description>
     </item>
     <item>
       <title>Tollymore</title>
-      <link>http://192.168.0.14:1313/tags/tollymore/</link>
+      <link>/tags/tollymore/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/tollymore/</guid>
+      <guid>/tags/tollymore/</guid>
       <description></description>
     </item>
     <item>
       <title>Walking</title>
-      <link>http://192.168.0.14:1313/tags/walking/</link>
+      <link>/tags/walking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/walking/</guid>
+      <guid>/tags/walking/</guid>
       <description></description>
     </item>
     <item>
       <title>Wedding</title>
-      <link>http://192.168.0.14:1313/tags/wedding/</link>
+      <link>/tags/wedding/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/wedding/</guid>
+      <guid>/tags/wedding/</guid>
       <description></description>
     </item>
     <item>
       <title>Wexford</title>
-      <link>http://192.168.0.14:1313/tags/wexford/</link>
+      <link>/tags/wexford/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/wexford/</guid>
+      <guid>/tags/wexford/</guid>
       <description></description>
     </item>
     <item>
       <title>Ireland</title>
-      <link>http://192.168.0.14:1313/tags/ireland/</link>
+      <link>/tags/ireland/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/ireland/</guid>
+      <guid>/tags/ireland/</guid>
       <description></description>
     </item>
     <item>
       <title>France</title>
-      <link>http://192.168.0.14:1313/tags/france/</link>
+      <link>/tags/france/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/france/</guid>
+      <guid>/tags/france/</guid>
       <description></description>
     </item>
     <item>
       <title>Hello</title>
-      <link>http://192.168.0.14:1313/tags/hello/</link>
+      <link>/tags/hello/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/hello/</guid>
+      <guid>/tags/hello/</guid>
       <description></description>
     </item>
     <item>
       <title>Tormo Circuit</title>
-      <link>http://192.168.0.14:1313/tags/tormo-circuit/</link>
+      <link>/tags/tormo-circuit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/tormo-circuit/</guid>
+      <guid>/tags/tormo-circuit/</guid>
       <description></description>
     </item>
     <item>
       <title>Water</title>
-      <link>http://192.168.0.14:1313/tags/water/</link>
+      <link>/tags/water/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/water/</guid>
+      <guid>/tags/water/</guid>
       <description></description>
     </item>
     <item>
       <title>Computing</title>
-      <link>http://192.168.0.14:1313/tags/computing/</link>
+      <link>/tags/computing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/computing/</guid>
+      <guid>/tags/computing/</guid>
       <description></description>
     </item>
     <item>
       <title>Walk</title>
-      <link>http://192.168.0.14:1313/tags/walk/</link>
+      <link>/tags/walk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/walk/</guid>
+      <guid>/tags/walk/</guid>
       <description></description>
     </item>
     <item>
       <title>Mtb</title>
-      <link>http://192.168.0.14:1313/tags/mtb/</link>
+      <link>/tags/mtb/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/mtb/</guid>
+      <guid>/tags/mtb/</guid>
       <description></description>
     </item>
     <item>
       <title>Moon</title>
-      <link>http://192.168.0.14:1313/tags/moon/</link>
+      <link>/tags/moon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/moon/</guid>
+      <guid>/tags/moon/</guid>
       <description></description>
     </item>
     <item>
       <title>Photography</title>
-      <link>http://192.168.0.14:1313/tags/photography/</link>
+      <link>/tags/photography/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/photography/</guid>
+      <guid>/tags/photography/</guid>
       <description></description>
     </item>
     <item>
       <title>Cyclocross</title>
-      <link>http://192.168.0.14:1313/tags/cyclocross/</link>
+      <link>/tags/cyclocross/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/cyclocross/</guid>
+      <guid>/tags/cyclocross/</guid>
       <description></description>
     </item>
     <item>
       <title>Ironman</title>
-      <link>http://192.168.0.14:1313/tags/ironman/</link>
+      <link>/tags/ironman/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/ironman/</guid>
+      <guid>/tags/ironman/</guid>
       <description></description>
     </item>
     <item>
       <title>Canada</title>
-      <link>http://192.168.0.14:1313/tags/canada/</link>
+      <link>/tags/canada/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/canada/</guid>
+      <guid>/tags/canada/</guid>
       <description></description>
     </item>
     <item>
       <title>Iceland</title>
-      <link>http://192.168.0.14:1313/tags/iceland/</link>
+      <link>/tags/iceland/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/iceland/</guid>
+      <guid>/tags/iceland/</guid>
       <description></description>
     </item>
     <item>
       <title>Italy</title>
-      <link>http://192.168.0.14:1313/tags/italy/</link>
+      <link>/tags/italy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/italy/</guid>
+      <guid>/tags/italy/</guid>
       <description></description>
     </item>
     <item>
       <title>Austria</title>
-      <link>http://192.168.0.14:1313/tags/austria/</link>
+      <link>/tags/austria/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/austria/</guid>
+      <guid>/tags/austria/</guid>
       <description></description>
     </item>
     <item>
       <title>Liechtenstein</title>
-      <link>http://192.168.0.14:1313/tags/liechtenstein/</link>
+      <link>/tags/liechtenstein/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/liechtenstein/</guid>
+      <guid>/tags/liechtenstein/</guid>
       <description></description>
     </item>
     <item>
       <title>Germany</title>
-      <link>http://192.168.0.14:1313/tags/germany/</link>
+      <link>/tags/germany/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/germany/</guid>
+      <guid>/tags/germany/</guid>
       <description></description>
     </item>
     <item>
       <title>Luxembourg</title>
-      <link>http://192.168.0.14:1313/tags/luxembourg/</link>
+      <link>/tags/luxembourg/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/luxembourg/</guid>
+      <guid>/tags/luxembourg/</guid>
       <description></description>
     </item>
     <item>
       <title>Race</title>
-      <link>http://192.168.0.14:1313/tags/race/</link>
+      <link>/tags/race/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/race/</guid>
+      <guid>/tags/race/</guid>
       <description></description>
     </item>
     <item>
       <title>Belgium</title>
-      <link>http://192.168.0.14:1313/tags/belgium/</link>
+      <link>/tags/belgium/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/belgium/</guid>
+      <guid>/tags/belgium/</guid>
       <description></description>
     </item>
     <item>
       <title>Cork</title>
-      <link>http://192.168.0.14:1313/tags/cork/</link>
+      <link>/tags/cork/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/cork/</guid>
+      <guid>/tags/cork/</guid>
       <description></description>
     </item>
     <item>
       <title>Anniversary</title>
-      <link>http://192.168.0.14:1313/tags/anniversary/</link>
+      <link>/tags/anniversary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/anniversary/</guid>
+      <guid>/tags/anniversary/</guid>
       <description></description>
     </item>
     <item>
       <title>Eddy</title>
-      <link>http://192.168.0.14:1313/tags/eddy/</link>
+      <link>/tags/eddy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/eddy/</guid>
+      <guid>/tags/eddy/</guid>
       <description></description>
     </item>
     <item>
       <title>Motorhome</title>
-      <link>http://192.168.0.14:1313/tags/motorhome/</link>
+      <link>/tags/motorhome/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/motorhome/</guid>
+      <guid>/tags/motorhome/</guid>
       <description></description>
     </item>
     <item>
       <title>Flix</title>
-      <link>http://192.168.0.14:1313/tags/flix/</link>
+      <link>/tags/flix/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/flix/</guid>
+      <guid>/tags/flix/</guid>
       <description></description>
     </item>
     <item>
       <title>Weather</title>
-      <link>http://192.168.0.14:1313/tags/weather/</link>
+      <link>/tags/weather/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/weather/</guid>
+      <guid>/tags/weather/</guid>
       <description></description>
     </item>
     <item>
       <title>Blu</title>
-      <link>http://192.168.0.14:1313/tags/blu/</link>
+      <link>/tags/blu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/blu/</guid>
+      <guid>/tags/blu/</guid>
       <description></description>
     </item>
     <item>
       <title>Motorcycle</title>
-      <link>http://192.168.0.14:1313/tags/motorcycle/</link>
+      <link>/tags/motorcycle/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/motorcycle/</guid>
+      <guid>/tags/motorcycle/</guid>
       <description></description>
     </item>
     <item>
       <title>Yoga</title>
-      <link>http://192.168.0.14:1313/tags/yoga/</link>
+      <link>/tags/yoga/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/yoga/</guid>
+      <guid>/tags/yoga/</guid>
       <description></description>
     </item>
     <item>
       <title>Campervan</title>
-      <link>http://192.168.0.14:1313/tags/campervan/</link>
+      <link>/tags/campervan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/campervan/</guid>
+      <guid>/tags/campervan/</guid>
       <description></description>
     </item>
     <item>
       <title>Autotest</title>
-      <link>http://192.168.0.14:1313/tags/autotest/</link>
+      <link>/tags/autotest/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/autotest/</guid>
+      <guid>/tags/autotest/</guid>
       <description></description>
     </item>
     <item>
       <title>Diary</title>
-      <link>http://192.168.0.14:1313/tags/diary/</link>
+      <link>/tags/diary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/diary/</guid>
+      <guid>/tags/diary/</guid>
       <description></description>
     </item>
     <item>
       <title>Holiday</title>
-      <link>http://192.168.0.14:1313/tags/holiday/</link>
+      <link>/tags/holiday/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/holiday/</guid>
+      <guid>/tags/holiday/</guid>
       <description></description>
     </item>
     <item>
       <title>Bird</title>
-      <link>http://192.168.0.14:1313/tags/bird/</link>
+      <link>/tags/bird/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/bird/</guid>
+      <guid>/tags/bird/</guid>
       <description></description>
     </item>
     <item>
       <title>Rally</title>
-      <link>http://192.168.0.14:1313/tags/rally/</link>
+      <link>/tags/rally/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/rally/</guid>
+      <guid>/tags/rally/</guid>
       <description></description>
     </item>
     <item>
       <title>Tech</title>
-      <link>http://192.168.0.14:1313/tags/tech/</link>
+      <link>/tags/tech/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/tech/</guid>
+      <guid>/tags/tech/</guid>
       <description></description>
     </item>
     <item>
       <title>Dining</title>
-      <link>http://192.168.0.14:1313/tags/dining/</link>
+      <link>/tags/dining/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/dining/</guid>
+      <guid>/tags/dining/</guid>
       <description></description>
     </item>
     <item>
       <title>Diet</title>
-      <link>http://192.168.0.14:1313/tags/diet/</link>
+      <link>/tags/diet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/diet/</guid>
+      <guid>/tags/diet/</guid>
       <description></description>
     </item>
     <item>
       <title>Emacs</title>
-      <link>http://192.168.0.14:1313/tags/emacs/</link>
+      <link>/tags/emacs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/emacs/</guid>
+      <guid>/tags/emacs/</guid>
       <description></description>
     </item>
     <item>
       <title>Linux</title>
-      <link>http://192.168.0.14:1313/tags/linux/</link>
+      <link>/tags/linux/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/linux/</guid>
+      <guid>/tags/linux/</guid>
       <description></description>
     </item>
     <item>
       <title>Gentoo</title>
-      <link>http://192.168.0.14:1313/tags/gentoo/</link>
+      <link>/tags/gentoo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/gentoo/</guid>
+      <guid>/tags/gentoo/</guid>
       <description></description>
     </item>
     <item>
       <title>Food</title>
-      <link>http://192.168.0.14:1313/tags/food/</link>
+      <link>/tags/food/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/food/</guid>
+      <guid>/tags/food/</guid>
       <description></description>
     </item>
     <item>
       <title>Work</title>
-      <link>http://192.168.0.14:1313/tags/work/</link>
+      <link>/tags/work/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/work/</guid>
+      <guid>/tags/work/</guid>
       <description></description>
     </item>
     <item>
       <title>Refurb</title>
-      <link>http://192.168.0.14:1313/tags/refurb/</link>
+      <link>/tags/refurb/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/tags/refurb/</guid>
+      <guid>/tags/refurb/</guid>
       <description></description>
     </item>
   </channel>

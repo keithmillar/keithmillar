@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Running on Keith&#39;s Diary and Other Stuff</title>
-    <link>http://192.168.0.14:1313/tags/running/</link>
+    <link>/tags/running/</link>
     <description>Recent content in Running on Keith&#39;s Diary and Other Stuff</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 12 Mar 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://192.168.0.14:1313/tags/running/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/running/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Elche Half Marathon</title>
-      <link>http://192.168.0.14:1313/2023-03-12-elche-half-marathon/</link>
+      <link>/2023-03-12-elche-half-marathon/</link>
       <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/2023-03-12-elche-half-marathon/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://192.168.0.14:1313/images/2023/2023-03-12-elche-half-marathon.jpg&#34; alt=&#34;Start of 1/2 Marathon&#34;&gt;&lt;strong&gt;Start of 1/2 Marathon&lt;/strong&gt;&lt;/p&gt;</description>
+      <guid>/2023-03-12-elche-half-marathon/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/images/2023/2023-03-12-elche-half-marathon.jpg&#34; alt=&#34;Start of 1/2 Marathon&#34;&gt;&lt;strong&gt;Start of 1/2 Marathon&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Subway Canada day 10k</title>
-      <link>http://192.168.0.14:1313/2016-07-01-subway-canada-day-10k/</link>
+      <link>/2016-07-01-subway-canada-day-10k/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/2016-07-01-subway-canada-day-10k/</guid>
+      <guid>/2016-07-01-subway-canada-day-10k/</guid>
       <description>Garth won the 10k road race in Grand Bay-Westfield&#xA;Darrell with Garth after the run {{ more }} We stopped of at Gina and Errols this morning and collect a nice Kona CX bike for me to ride while we are here.&#xA;Then it&amp;rsquo;s off to Grand Bay-Westfiels for the Canada Day 10 mile road race, Garth running in the 10k race which he won even though Alex Coffin messed up the finish which apparently was Garth&amp;rsquo;s fault.</description>
     </item>
   </channel>

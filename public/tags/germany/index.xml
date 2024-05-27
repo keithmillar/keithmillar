@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Germany on Keith&#39;s Diary and Other Stuff</title>
-    <link>http://192.168.0.14:1313/tags/germany/</link>
+    <link>/tags/germany/</link>
     <description>Recent content in Germany on Keith&#39;s Diary and Other Stuff</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 07 May 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://192.168.0.14:1313/tags/germany/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/germany/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Germany </title>
-      <link>http://192.168.0.14:1313/2018-05-07-germany/</link>
+      <link>/2018-05-07-germany/</link>
       <pubDate>Mon, 07 May 2018 00:00:00 +0000</pubDate>
-      <guid>http://192.168.0.14:1313/2018-05-07-germany/</guid>
+      <guid>/2018-05-07-germany/</guid>
       <description>Ladenburg&#xA;Our plan was to stay in an aire by a camping shop while the shop was excellent the aire wasn&amp;rsquo;t so we moved on to Ladenburg.&#xA;We stayed in an aire here about 1.5km from the town center. Wandered into the town for a beer and to check the bus times to Heidelberg for tomorrow.&#xA;Ladenburg {{ more }}&#xA;We made a cock up with the bus but we got their eventually.</description>
     </item>
   </channel>
