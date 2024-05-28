@@ -26,3 +26,5 @@ date: "2022-09-29"
 11. Lee Marvin - Wandering Star (1969)
 12. The 5th Dimension - Age of Aquarius (1969)
 13. The Battle Hymn of the Republic
+14. Nancy Sinatra & Lee Hazlewood Summer Wine (1967)
+15. Cozy Powell Dance with the Devil
