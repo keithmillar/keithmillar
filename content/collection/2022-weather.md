@@ -1,6 +1,7 @@
 ---
-title: "2022-weather"
+title: "2022 Weather"
 type: "collection"
-layout: "2022-weather"
 date: "2022-12-31"
 ---
+
+{{< csv-to-table-weather path="weather/2022-weather.csv" >}}

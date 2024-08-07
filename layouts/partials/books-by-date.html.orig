@@ -1,6 +1,0 @@
-{{ range sort .Site.Data.books ".dateread" "desc" }}
-<ul>
-	<li>{{ .title }}<br />
-	By {{ .author }}<br />Finished on {{ .dateread }}</li>
-</ul>
-{{end}}
