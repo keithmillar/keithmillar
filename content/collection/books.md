@@ -4,62 +4,62 @@ type: "collection"
 date: "2024-08-07"
 ---
 
-<br/><strong>2024</strong>
+**2024**
 {{< csv-to-table-books path="reading/24-reading.csv" >}}
 
-<br/><strong>2023</strong>
+**2023**
 {{< csv-to-table-books path="reading/23-reading.csv" >}}
 
-<br/><strong>2022</strong>
+**2022**
 {{< csv-to-table-books path="reading/22-reading.csv" >}}
 
-<br/><strong>2021</strong>
+**2021**
 {{< csv-to-table-books path="reading/reading-21.csv" >}}
 
-<br/><strong>2020</strong>
+**2020**
 {{< csv-to-table-books path="reading/reading-20.csv" >}}
 
-<br/><strong>2019</strong>
+**2019**
 {{< csv-to-table-books path="reading/reading-19.csv" >}}
 
-<br/><strong>2018</strong>
+**2018**
 {{< csv-to-table-books path="reading/reading-18.csv" >}}
 
-<br/><strong>2017</strong>
+**2017**
 {{< csv-to-table-books path="reading/reading-17.csv" >}}
 
-<br/><strong>2016</strong>
+**2016**
 {{< csv-to-table-books path="reading/reading-16.csv" >}}
 
-<br/><strong>2015</strong>
+**2015**
 {{< csv-to-table-books path="reading/reading-15.csv" >}}
 
-<br/><strong>2014</strong>
+**2014**
 {{< csv-to-table-books path="reading/reading-14.csv" >}}
 
-<br/><strong>2013</strong>
+**2013**
 {{< csv-to-table-books path="reading/reading-13.csv" >}}
 
-<br/><strong>2012</strong>
+**2012**
 {{< csv-to-table-books path="reading/reading-12.csv" >}}
 
-<br/><strong>2011</strong>
+**2011**
 {{< csv-to-table-books path="reading/reading-11.csv" >}}
 
-<br/><strong>2010</strong>
+**2010**
 {{< csv-to-table-books path="reading/reading-10.csv" >}}
 
-<br/><strong>2009</strong>
+**2009**
 {{< csv-to-table-books path="reading/reading-09.csv" >}}
 
-<br/><strong>2008</strong>
+**2008**
 {{< csv-to-table-books path="reading/reading-08.csv" >}}
 
-<br/><strong>2007</strong>
+**2007**
 {{< csv-to-table-books path="reading/reading-07.csv" >}}
 
-<br/><strong>2006</strong>
+**2006**
 {{< csv-to-table-books path="reading/reading-06.csv" >}}
 
-<strong>2005</strong>
+**2005**
 {{< csv-to-table-books path="reading/reading-05.csv" >}}
