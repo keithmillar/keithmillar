@@ -14,8 +14,6 @@ Sunday 4th and Flo planned a route for our coffee ride which turned out to be qu
 Luckily Flo was able to fly home for her Sister and Brother in Laws 50th Wedding Anniversary.i
 
 I also managed to fall off my bike at broken bridge, fortunately with only a couple of scrapes.
-<!--more-->
 
- ![  ](/images/2020/)**Caption**
 
 
