@@ -1,7 +1,7 @@
 ---
 title: "Books by Date"
 type: "collection"
-date: "2025-02-25"
+date: "2025-03-06"
 ---
 
 **2025**
