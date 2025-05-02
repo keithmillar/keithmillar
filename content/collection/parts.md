@@ -79,16 +79,16 @@ date: "2019-02-15"
  * Inline cable adjusters 2 New
  * Brake pads 4 New MTB
  * Avid BB5 brake pads 2 Avid BB5 New MTB
- * <strike><bold style='color:red;'>Brake blocks 2</bold></strike> Shimano New Road
+ * ~~Brake blocks 2~~ shimano New Road
  * Complete brake (blocks & cartridges) 1 Shimano New Road
  * Bottom bracket cable holder 2 New Road
- * <strike><bold style='color:red;'>10-speed Jockey wheels 0</bold></strike> New Road
+ * ~~10-speed Jockey wheels 0~~ New Road
  * SPD Cleats 3 Shimano New MTB / Road
  * Seat clamp 2 New Road
  * Rear hub bearings 4 Hope New Road
- * <strike><bold style='color:red;'>BB30 Bearings 2</bold></strike> Enduro New Road
+ * ~~BB30 Bearings 2~~ Enduro New Road
  * Rim tape 2 New Road
- * <strike><bold style='color:red;'>Headset bearings 1</bold></strike> New Road
+ * ~~Headset bearings 1~~ New Road
  * Headset bearings 2 Trek New Road
  * Hydraulic cable mounting 1 New
  * Black sticky pads New

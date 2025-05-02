@@ -11,6 +11,4 @@ Road the Tour of the Glens today for the first time in about eight years. We had
 
 ![](/images/2011/easter2011137.jpg)
 **Tour of the Glens**
-<pre>
-[hmttp://connect.garmin.com:80/activity/embed/83250873](http://connect.garmin.com:80/activity/embed/83250873)
-</pre>
+[https://connect.garmin.com:80/activity/embed/83250873](http://connect.garmin.com:80/activity/embed/83250873)

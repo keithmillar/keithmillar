@@ -5,7 +5,7 @@ title: "McCool Hikers"
 date: 2016-10-02
 category: blog
 tags:
- - walking 
+ - walking
 ---
 
 <!--start excerpt-->
@@ -22,10 +22,8 @@ We then found Garth at the Papal Cross and slowly we caught up with the rest of 
 
 Because the weather was so nasty we decided not to go back to Dublin and just head home.
 
-![](/images/2016/2016-10-02-mccool-hikers-garth.jpg)
-**Enjoying a pint with Garth**
+![Enjoying a pint with Garth](/images/2016/2016-10-02-mccool-hikers-garth.jpg)**Enjoying a pint with Garth**
 
-{{ more }}
 
 #### McCool Hikers Day 3 ####
 
@@ -49,8 +47,7 @@ Belfast Castle just got here and quick coffee then everyone left. We collected G
 
 #### McCool Hikers Day 6 ####
 
-![](/images/2016/2016-10-02-mccool-hikers-bangor.jpg)
-**<strong>Group Photo Holywood**
+![Group Photo Holywood](/images/2016/2016-10-02-mccool-hikers-bangor.jpg)**Group Photo Holywood**
 
 Parked in Holywood and joined up with the group and we set off to Bangor, the pace was brisk today which was nice. The wind was on our backs which was just as well as it was very strong.
 
@@ -70,8 +67,7 @@ We had a quick stop on the way home at the Dark Hedges for the Game of Thrones f
 
 Final meeting with the group as they are off back to Dublin later this morning. So we joined them in Stormont where some where taking part in the Park Run, 5km around Stormont. In Total 144 runners took part with Garth coming in 4th and Gail was the first lady so another successful event.
 
-![](/images/2016/2016-10-02-mccool-hikers-gail.jpg)
-**Gail First Lady**
+![Gail First Lady](/images/2016/2016-10-02-mccool-hikers-gail.jpg)**Gail First Lady**
 
 #### McCool Hikers Day 9 ####
 
