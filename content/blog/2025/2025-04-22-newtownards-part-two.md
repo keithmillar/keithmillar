@@ -25,4 +25,3 @@ Saturday 19th April Miserable drive to Dublin rain all the way, made good time.
 
 Sunday 20th April Late getting off the boat and nasty weather most of the way home. Bordeaux and San Sebastian the worst. Driving all in one go was too much especially with the poor weather. Trailer worked well and the tarp kept everything dry which was impressive considering the amount of rain.
 
- ![](/images/2025/)

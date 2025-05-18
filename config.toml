@@ -5,7 +5,8 @@ title = "Keith's Diary and Other Stuff"
 enableRobotsTXT = "false"
 
 [permalinks]
-  blog = "/:filename/"
+  blog = "/:contentbasename/"
+#  blog = "/:filename/"
   relativeURLs = "true"
 
 # See https://feathericons.com/
