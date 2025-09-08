@@ -6,6 +6,7 @@ category: blog
 tags:
 - home
 - spain
+- covid
 ---
 
 Garth and Helena having left on the 17th March and arrived safely back in Canada, now face 14 days self quarantine, very disappointing to miss out on their company. This has left Flo and I not quite knowing what to do, or what the coming days will bring.

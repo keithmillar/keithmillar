@@ -5,13 +5,10 @@ title: "Off to Wales"
 date: 2016-08-02
 category: blog
 tags:
- - change me
+ - wales
 ---
 
-<!--start excerpt-->
 
 
 
-{{ more }}
-
-![](/images/2016/) 
+![](/images/2016/)

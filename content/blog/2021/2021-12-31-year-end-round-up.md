@@ -4,7 +4,8 @@ date: 2021-12-31
 layout: post
 category: blog
 tags:
-- change me
+- covid
+- spain
 ---
 
 More of the same, everything still up in the air due to covid. Travel very limited so we have stayed local since our return in July/August.
