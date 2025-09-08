@@ -5,7 +5,7 @@ layout: post
 category: blog
 tags:
 - spain
-- coronavirus
+- covid
 ---
 
 This is the first week since lock down began that we can legitimately leave the house for exercise, so we have managed a couple of walks and some MTB rides
