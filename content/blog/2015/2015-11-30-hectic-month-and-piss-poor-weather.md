@@ -7,6 +7,7 @@ category: blog
 tags:
 - travel
 - blu
+- campervan
 ---
 
 

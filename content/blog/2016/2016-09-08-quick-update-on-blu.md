@@ -5,7 +5,8 @@ title: "Quick Update on Blu"
 date: 2016-09-08
 category: blog
 tags:
- - blu 
+ - blu
+ - campervan
 ---
 
 <!--start excerpt-->

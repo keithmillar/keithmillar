@@ -5,7 +5,8 @@ title: "Blackbirds and Blu's Insulation"
 date: 2016-06-05
 category: blog
 tags:
- - blu 
+ - blu
+ - campervan
 ---
 
 <!--start excerpt-->
