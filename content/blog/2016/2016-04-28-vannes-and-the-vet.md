@@ -2,7 +2,6 @@
 date: 2016-04-28
 layout: post
 title: "Vannes and the Vet"
-date: 2016-04-28
 category: blog
 tags:
  - spain 

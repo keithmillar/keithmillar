@@ -2,7 +2,6 @@
 date: 2016-12-31
 layout: post
 title: "Vets Lunch and Cork"
-date: 2016-12-31
 category: blog
 tags:
  - cork 

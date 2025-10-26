@@ -2,7 +2,6 @@
 date: 2016-04-25
 layout: post
 title: "Carcassone and Castres"
-date: 2016-04-25
 category: blog
 tags:
  - spain

@@ -2,7 +2,6 @@
 date: 2016-06-15
 layout: post
 title: "Bloody Bridge, Donnard and Commedagh"
-date: 2016-06-15
 category: blog
 tags:
  - walk 

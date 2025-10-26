@@ -2,7 +2,6 @@
 date: 2016-07-13
 layout: post
 title: "Italian by Night"
-date: 2016-07-13
 category: blog
 tags:
  - canada

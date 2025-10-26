@@ -2,7 +2,6 @@
 date: 2016-07-08
 layout: post
 title: "The Challenge Weekend"
-date: 2016-07-08
 category: blog
 tags:
  - canada

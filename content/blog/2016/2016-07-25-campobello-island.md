@@ -2,7 +2,6 @@
 date: 2016-07-25
 layout: post
 title: "Campobello Island"
-date: 2016-07-25
 category: blog
 tags:
  - canada

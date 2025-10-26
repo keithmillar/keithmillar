@@ -2,7 +2,6 @@
 date: 2016-11-19
 layout: post
 title: "Ballywalter"
-date: 2016-11-19
 category: blog
 tags:
  - walk 

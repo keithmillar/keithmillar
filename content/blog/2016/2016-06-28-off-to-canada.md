@@ -2,7 +2,6 @@
 date: 2016-06-28
 layout: post
 title: "Off to Canada"
-date: 2016-06-28
 category: blog
 tags:
  - canada

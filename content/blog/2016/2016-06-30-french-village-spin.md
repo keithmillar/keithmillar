@@ -2,7 +2,6 @@
 date: 2016-06-30
 layout: post
 title: "French Village Spin"
-date: 2016-06-30
 category: blog
 tags:
  - cycling

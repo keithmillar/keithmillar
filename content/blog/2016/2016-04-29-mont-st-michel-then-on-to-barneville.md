@@ -2,7 +2,6 @@
 date: 2016-04-29
 layout: post
 title: "Mont st Michel then on to Barneville"
-date: 2016-04-29
 category: blog
 tags:
  - spain 

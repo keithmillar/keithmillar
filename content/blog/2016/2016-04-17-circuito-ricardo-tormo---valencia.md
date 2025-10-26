@@ -2,7 +2,6 @@
 layout: post
 date: 2016-04-17
 title: "Circuito Ricardo Tormo - Valencia"
-date: 2016-04-17
 category: blog
 tags:
  - motorcycle

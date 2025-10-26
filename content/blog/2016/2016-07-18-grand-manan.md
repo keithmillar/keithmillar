@@ -2,7 +2,6 @@
 date: 2016-07-18
 layout: post
 title: "Grand Manan"
-date: 2016-07-18
 category: blog
 tags:
  - canada 

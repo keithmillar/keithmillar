@@ -2,7 +2,6 @@
 date: 2016-07-23
 layout: post
 title: "Foster Brook Trail"
-date: 2016-07-23
 category: blog
 tags:
  - canada

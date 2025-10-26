@@ -2,7 +2,6 @@
 date: 2016-04-11
 layout: post
 title: "Karen's Visit"
-date: 2016-04-11
 category: blog
 tags:
  - spain

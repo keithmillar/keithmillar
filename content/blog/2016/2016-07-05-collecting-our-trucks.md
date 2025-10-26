@@ -2,7 +2,6 @@
 date: 2016-07-05
 layout: post
 title: "Collecting our Trucks"
-date: 2016-07-05
 category: blog
 tags:
  - canada 

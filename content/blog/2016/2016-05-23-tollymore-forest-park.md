@@ -2,7 +2,6 @@
 date: 2016-05-23
 layout: post
 title: "Tollymore Forest Park"
-date: 2016-05-23
 category: blog
 tags:
  - walk

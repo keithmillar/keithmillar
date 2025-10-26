@@ -2,7 +2,6 @@
 layout: post
 date: 2016-03-26
 title: "Coffee and Saddle Test"
-date: 2016-03-26
 category: blog
 tags:
  - cycling

@@ -2,7 +2,6 @@
 date: 2016-04-24
 layout: post
 title: "And we're off"
-date: 2016-04-24
 category: blog
 tags:
  - spain

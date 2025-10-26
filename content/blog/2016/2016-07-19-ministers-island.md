@@ -2,7 +2,6 @@
 date: 2016-07-19
 layout: post
 title: "Ministers Island"
-date: 2016-07-19
 category: blog
 tags:
  - canada

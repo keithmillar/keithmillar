@@ -2,7 +2,6 @@
 layout: post
 date: 2016-04-02
 title: "Our Grand Easter Tour"
-date: 2016-04-02
 category: blog
 tags:
  - spain

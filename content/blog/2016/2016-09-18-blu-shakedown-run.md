@@ -2,7 +2,6 @@
 date: 2016-09-18
 layout: post
 title: "Blu Shakedown Run"
-date: 2016-09-18
 category: blog
 tags:
  - blu

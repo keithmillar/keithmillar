@@ -2,7 +2,6 @@
 date: 2016-04-23
 layout: post
 title: "Last Day in Turis"
-date: 2016-04-23
 category: blog
 tags:
  - spain 

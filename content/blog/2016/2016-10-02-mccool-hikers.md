@@ -2,7 +2,6 @@
 date: 2016-10-02
 layout: post
 title: "McCool Hikers"
-date: 2016-10-02
 category: blog
 tags:
  - walking

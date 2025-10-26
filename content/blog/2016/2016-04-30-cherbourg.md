@@ -2,7 +2,6 @@
 date: 2016-04-30
 layout: post
 title: "Cherbourg"
-date: 2016-04-30
 category: blog
 tags:
  - spain 

@@ -2,7 +2,6 @@
 date: 2016-07-07
 layout: post
 title: "Another truck for Flo"
-date: 2016-07-07
 category: blog
 tags:
  - canada

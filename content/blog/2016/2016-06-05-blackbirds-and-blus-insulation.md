@@ -2,7 +2,6 @@
 date: 2016-06-05
 layout: post
 title: "Blackbirds and Blu's Insulation"
-date: 2016-06-05
 category: blog
 tags:
  - blu

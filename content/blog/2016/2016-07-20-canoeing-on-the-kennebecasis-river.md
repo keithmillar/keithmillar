@@ -2,7 +2,6 @@
 date: 2016-07-20
 layout: post
 title: "Canoeing on the Kennebecasis River"
-date: 2016-07-20
 category: blog
 tags:
  - canada

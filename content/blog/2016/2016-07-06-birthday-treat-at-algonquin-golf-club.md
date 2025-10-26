@@ -2,7 +2,6 @@
 date: 2016-07-06
 layout: post
 title: "Birthday Treat at Algonquin Golf Club"
-date: 2016-07-06
 category: blog
 tags:
  - canada 

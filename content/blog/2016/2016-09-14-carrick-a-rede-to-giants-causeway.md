@@ -2,7 +2,6 @@
 date: 2016-09-14
 layout: post
 title: "Carrick-a-Rede to Giants Causeway"
-date: 2016-09-14
 category: blog
 tags:
  - walk 

@@ -2,7 +2,6 @@
 date: 2016-08-22
 layout: post
 title: "Bloody Bridge Donard & Glen River Walk"
-date: 2016-08-22
 category: blog
 tags:
  - walk

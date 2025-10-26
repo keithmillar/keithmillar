@@ -2,7 +2,6 @@
 date: 2016-07-21
 layout: post
 title: "St Martins & Fundy Trail Parkway"
-date: 2016-07-21
 category: blog
 tags:
  - canada

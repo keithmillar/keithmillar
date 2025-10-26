@@ -2,7 +2,6 @@
 date: 2016-07-03
 layout: post
 title: "First trip to St Andrews"
-date: 2016-07-03
 category: blog
 tags:
  - cycling

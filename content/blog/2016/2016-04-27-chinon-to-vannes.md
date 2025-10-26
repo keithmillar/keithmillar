@@ -2,7 +2,6 @@
 date: 2016-04-27
 layout: post
 title: "Chinon to Vannes"
-date: 2016-04-27
 category: blog
 tags:
  - spain 
