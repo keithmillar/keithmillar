@@ -1,8 +1,11 @@
 ---
 title: "Books by Date"
 type: "collection"
-date: "2025-12-30"
+date: "2025-01-07"
 ---
+
+**2026**
+{{< csv-to-table-books path="reading/26-reading.csv" >}}
 
 **2025**
 {{< csv-to-table-books path="reading/25-reading.csv" >}}
