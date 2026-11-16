@@ -1,7 +1,7 @@
 ---
 title: "Books by Date"
 type: "collection"
-date: "2026-11-06"
+date: "2026-11-16"
 ---
 
 **2026**
